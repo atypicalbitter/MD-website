@@ -1,0 +1,21 @@
+body {
+    background-color: #b8d8d8;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+.topCard .card-text .card-title {
+    color: black;
+}
+
+.card-title {
+    font-size: 80px;
+    display: flex;
+    align-items: center;
+}
+
+.card {
+    border-radius: 0;
+    background-color: #b8d8d8;
+    border: none;
+}
